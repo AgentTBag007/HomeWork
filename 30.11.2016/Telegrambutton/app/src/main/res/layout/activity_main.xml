@@ -18,4 +18,12 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="57dp"
         android:id="@+id/button" />
+
+    <Button
+        android:text="Call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button"
+        android:layout_alignStart="@+id/button"
+        android:id="@+id/button1" />
 </RelativeLayout>
